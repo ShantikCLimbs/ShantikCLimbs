@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ShantikCLimbs
-- 👀 I’m interested in Backend Developing
-- 🌱 I’m currently learning ASP.NET Core
-
+- 👋 Hi, I’m Shantik
+- 👀 I’m a software engineer
+- 🌱 C# backend developer at EIED oil company
 
 <!---
 ShantikCLimbs/ShantikCLimbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
