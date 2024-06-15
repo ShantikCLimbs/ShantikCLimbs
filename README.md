@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shantik
+- 👋 Hi, I’m Shant
 - 👀 I’m a software engineer
 - 🌱 C# backend developer at EIED oil company
 
